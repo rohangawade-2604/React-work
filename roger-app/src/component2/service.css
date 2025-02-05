@@ -1,0 +1,15 @@
+.con{
+    display: flex;
+    text-align: center;
+    /* background-color: black; */
+    /* color: white; */
+    
+    /* display: grid;
+    grid-template-columns: auto auto; */
+}
+
+.container{
+    /* background-color: black; */
+    /* color: white; */
+}
+

@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+  }
+  
+  ul{
+    margin: 0px 10%;
+  }
+  li {
+    list-style: none;
+    border: 1px solid black;
+    margin: 15px 0px;
+    padding: 10px;
+  }
+
+.form{
+ 
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  margin: 30px;
+  padding: 10px;
+  background-color: black;
+  background-image: url(image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.form input[placeholder]{
+  margin: 20px;
+  padding: 10px 7%;
+}
+
+button{
+  transition: all 1s ease-out;
+}
+
+button:hover{
+
+  background-color: black;
+  color: white
+}
+
+.form2 .btn{
+  border: 2px solid black;
+}
+
