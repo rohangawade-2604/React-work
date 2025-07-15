@@ -7,3 +7,4 @@ aapna kaam done
 done with it
 aapna kaam banta , bhaad main jaaye janta
 done with
+push kr lavdya
